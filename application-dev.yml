@@ -2,7 +2,7 @@ spring:
   application:
     name: CONFIG-CLIENT
 server:
-  port: 8055
+  port: 8054
 datasource:
   driver-class-name: com.mysql.jdbc.Driver
   username: root
